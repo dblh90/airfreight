@@ -1,0 +1,9 @@
+app:
+  port: "9010"
+  db:
+    host: localhost
+    port: 5432
+    user: postgres
+    password: postgres
+    name: wms
+    sslmode: disable
