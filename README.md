@@ -26,3 +26,7 @@
 
 ### Integration Tests <a name = "integration_test"></a>
 1. Run `make integration-test` to setup integration's test.
+
+
+### Notes:
+- I wanted to have more coverage with test cases, but thought I can share what I implemented as a demonstration.
